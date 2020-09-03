@@ -50,6 +50,10 @@ features                                  :
     description                           : Get a high score and share on social media.
     fontawesome_icon_name                 : share-square
 
+  - title                                 : Get new vehicles
+    description                           : Wouldn't you like to ride in a tractor?
+    fontawesome_icon_name                 : shopping-cart
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
