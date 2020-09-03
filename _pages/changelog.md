@@ -6,8 +6,9 @@ include_in_header: true
 
 ### `IAP Release`
 # **Version 1.1.1**
-Added IAP purchases for gems
-Added in-game store where you can purchase vehicles for gems
+-Added IAP purchases for gems 
+
+-Added in-game store where you can purchase vehicles using gems
 
 ### `Initial Release`
 # **Version 1.0.0**
