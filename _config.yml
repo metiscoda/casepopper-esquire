@@ -34,25 +34,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Hyper casual gameplay 
-    description                           : Tap to turn the car at the right moment.
-    fontawesome_icon_name                 : gamepad
+  - title                                 : Casual gameplay 
+    description                           : Direct your bubbles to match color.
+    fontawesome_icon_name                 : crosshairs
     
-  - title                                 : Go the distance
-    description                           : See how far you can go without falling off.
-    fontawesome_icon_name                 : car-side
+  - title                                 : Reveal clues
+    description                           : Evidence can be found within the observations.
+    fontawesome_icon_name                 : fingerprint
 
-  - title                                 : Collect gems
-    description                           : Collect as many as you can.
-    fontawesome_icon_name                 : gem
-
-  - title                                 : Share with friends
-    description                           : Get a high score and share on social media.
-    fontawesome_icon_name                 : share-square
-
-  - title                                 : Get new vehicles
-    description                           : Wouldn't you like to ride in a tractor?
-    fontawesome_icon_name                 : shopping-cart
+  - title                                 : Boost your gameplay
+    description                           : See color of next bubble or lengthen your aim line.
+    fontawesome_icon_name                 : bolt
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
